@@ -1,0 +1,19 @@
+.form-input{
+    background: none;
+    background-color: #fff;
+    border: 1px solid #ced6e0;
+    box-shadow: none;
+    color: #1a3b5d;
+    font-family: Source Sans Pro, sans-serif;
+    outline: none;
+    padding: 5px 10px;
+    scrollbar-width: none;
+    transition: all .3sease-in-out;
+}
+
+.hero-section{
+    background-image: url("../../assets/shutterstock_2493365641-min.6a755df6ed7d1a882336.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
