@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage';
-import ContactPage from './pages/contactPage';
+import ContactPage from './pages/ContactPage';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import MortgageCalculator from './pages/Buying/MortgageCalculator';
